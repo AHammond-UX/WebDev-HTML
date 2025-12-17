@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dominant 7th Chords</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <h1 class="page-title">Dominant 7th Chords</h1>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- INTRO SECTION -->
+      <section class="section">
+        <h2 class="section-title">Introduction</h2>
+        <p class="body-text">
+          Dominant 7th chords are a great next step once you’re comfortable with basic major and minor shapes.
+          They’re formed by taking a major chord and adding one extra note called the minor 7th.
+          This small change creates a sound that’s bluesy, slightly tense, and full of character.
+          You’ll hear dominant 7th chords in blues, rock, jazz, and many classic guitar riffs.
+        </p>
+      </section>
+
+      <!-- A7 -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">A7</h3>
+
+          <!-- IMAGE: A7 chord diagram -->
+          <img class="lesson-image" src="./Assets/Images/A 7.jpg" alt="A7 guitar chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> A (root), C♯ (major third), E (perfect fifth), G (minor seventh)
+          </p>
+        </div>
+      </section>
+
+      <!-- D7 -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">D7</h3>
+
+          <!-- IMAGE: D7 chord diagram -->
+          <img class="lesson-image" src="./Assets/Images/D 7.jpg" alt="D7 guitar chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> D (root), F♯ (major third), A (perfect fifth), C (minor seventh)
+          </p>
+        </div>
+      </section>
+
+      <!-- G7 -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">G7</h3>
+
+          <!-- IMAGE: G7 chord diagram -->
+          <img class="lesson-image" src="./Assets/Images/G 7.jpg" alt="G7 guitar chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> G (root), B (major third), D (perfect fifth), F (minor seventh)
+          </p>
+        </div>
+      </section>
+
+      <a href="./12 Bar Blues.html" class="button button--primary">
+        Next Lesson: 12 Bar Blues →
+      </a>
+
+
+    </main>
+
+  </div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Playing a 12-Bar Blues</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <h1 class="page-title">Playing a 12-Bar Blues</h1>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- INTRODUCTION -->
+      <section class="section">
+        <h2 class="section-title">Introduction</h2>
+        <p class="body-text">
+          The 12-bar blues is one of the most important chord progressions in guitar music.
+          It forms the foundation of countless blues, rock, folk, and country songs.
+          If you already know your dominant 7th chords, you’re ready to start playing a 12-bar blues.
+          On this page, you’ll learn three common versions: the standard form, the quick change,
+          and a simple turnaround.
+        </p>
+      </section>
+
+      <!-- WHAT IS A 12-BAR BLUES -->
+      <section class="section">
+        <h2 class="section-title">What Is a 12-Bar Blues?</h2>
+
+        <p class="body-text">
+          A 12-bar blues is a repeating chord progression made up of 12 measures, or bars.
+          These bars are built using three chords from a key:
+        </p>
+
+        <ul class="body-text">
+          <li>The I chord (the home chord)</li>
+          <li>The IV chord</li>
+          <li>The V chord</li>
+        </ul>
+
+        <p class="body-text">
+          In the key of A, these chords are:
+          A7 (I), D7 (IV), and E7 (V).
+          The pattern stays the same in every key — only the chord names change.
+        </p>
+
+        <!-- IMAGE: I–IV–V reference chart in the key of A -->
+         <figure class="lesson-figure">
+            <img
+                src="./Assets/Images/12 Bar Blues.jpg"
+                alt="Standard 12 Bar Blues"
+                class="lesson-figure"
+            >
+            <figcaption class="lesson-caption">
+                Standard 12 Bar Blues
+             </figcaption>
+        </figure>
+
+      </section>
+
+      <!-- STANDARD 12 BAR -->
+      <section class="section">
+        <h2 class="section-title">Standard 12-Bar Blues</h2>
+
+        <p class="body-text">
+          The standard 12-bar blues is the most basic and widely used version.
+          It stays on the I chord for the first four bars before moving to the IV chord.
+          This gives you time to settle into the groove.
+        </p>
+
+        <p class="body-text">
+          In the key of A, the standard 12-bar blues looks like this:
+        </p>
+
+        <ul class="body-text">
+          <li>Bars 1–4: A7</li>
+          <li>Bars 5–6: D7</li>
+          <li>Bars 7–8: A7</li>
+          <li>Bar 9: E7</li>
+          <li>Bar 10: D7</li>
+          <li>Bars 11–12: A7</li>
+        </ul>
+
+        <!-- IMAGE: Standard 12-bar blues chord chart (12 bars labeled) -->
+         <figure class="lesson-figure">
+            <img
+                src="./Assets/Images/12 Bar Blues.jpg"
+                alt="Standard 12 Bar Blues"
+                class="lesson-figure"
+            >
+            <figcaption class="lesson-caption">
+                Standard 12 Bar Blues
+             </figcaption>
+        </figure>
+
+      </section>
+
+      <!-- QUICK CHANGE -->
+      <section class="section">
+        <h2 class="section-title">Quick Change 12-Bar Blues</h2>
+
+        <p class="body-text">
+          The quick change is a small variation that adds movement early in the progression.
+          Instead of staying on the I chord for four bars, you move to the IV chord in the second bar.
+          This version is very common in blues music.
+        </p>
+
+        <p class="body-text">
+          In the key of A, the quick change version looks like this:
+        </p>
+
+        <ul class="body-text">
+          <li>Bar 1: A7</li>
+          <li>Bar 2: D7</li>
+          <li>Bars 3–4: A7</li>
+          <li>Bars 5–6: D7</li>
+          <li>Bars 7–8: A7</li>
+          <li>Bar 9: E7</li>
+          <li>Bar 10: D7</li>
+          <li>Bars 11–12: A7</li>
+        </ul>
+
+        <p class="body-text">
+          Everything else stays the same — only the second bar changes.
+        </p>
+
+        <!-- IMAGE: Quick change 12-bar blues chart (bar 2 highlighted) -->
+         <figure class="lesson-figure">
+            <img
+                src="./Assets/Images/12 Bar quick change.webp"
+                alt="Standard 12 Bar Blues"
+                class="lesson-figure"
+            >
+            <figcaption class="lesson-caption">
+                Standard 12 Bar Blues
+             </figcaption>
+        </figure>
+
+      </section>
+
+      <!-- TURNAROUND -->
+      <section class="section">
+        <h2 class="section-title">Adding a Turnaround</h2>
+
+        <p class="body-text">
+          A turnaround is a short chord movement at the end of the 12-bar blues
+          that leads you smoothly back to the beginning of the progression.
+          It creates tension and makes the return to the I chord feel natural.
+        </p>
+
+        <p class="body-text">
+          One common turnaround replaces the final bar with the V chord:
+        </p>
+
+        <ul class="body-text">
+          <li>Bar 9: E7</li>
+          <li>Bar 10: D7</li>
+          <li>Bar 11: A7</li>
+          <li>Bar 12: E7</li>
+        </ul>
+
+        <!-- IMAGE: Turnaround example (bars 9–12 clearly shown) -->
+         <figure class="lesson-figure">
+            <img
+                src="./Assets/Images/12 Bar Blues.jpg"
+                alt="Standard 12 Bar Blues"
+                class="lesson-figure"
+            >
+            <figcaption class="lesson-caption">
+                Standard 12 Bar Blues
+             </figcaption>
+        </figure>
+
+      </section>
+
+      <!-- PUTTING IT TOGETHER -->
+      <section class="section">
+        <h2 class="section-title">Putting It All Together</h2>
+
+        <p class="body-text">
+          Once you’re comfortable with these three versions, you can mix and match them
+          depending on the song. Many blues songs use a quick change, a turnaround,
+          or both. Focus on keeping a steady rhythm and making smooth chord changes.
+        </p>
+      </section>
+
+      <!-- NEXT / END BUTTON -->
+      <section class="section section--next">
+        <a href="index.html" class="button button--primary">
+          Review the Course or Start Again →
+        </a>
+      </section>
+
+    </main>
+
+  </div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn to Read Guitar Chord Charts</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <h1 class="page-title">Learn to Read Guitar Chord Charts</h1>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- INTRODUCTION -->
+      <section class="section">
+        <h2 class="section-title">Introduction</h2>
+        <p class="body-text">
+          Guitar chord charts are simple visual maps that show you where to place your fingers on the fretboard.
+          At first, they might look confusing, but once you understand a few basic symbols, they become easy to read.
+          This page will walk you through each part of a chord chart step by step, so you can confidently learn new
+          chords and start playing real music.
+        </p>
+      </section>
+
+      <!-- THE CHORD CHART GRID -->
+      <section class="section">
+        <h2 class="section-title">The Chord Chart Grid</h2>
+
+        <!-- IMAGE: Blank chord chart grid (no dots, no labels) -->
+        <figure class="lesson-figure">
+            <img 
+                class="lesson-image"
+                src="./Assets/Images/Chord Diagram.png"
+                alt="empty chord diagram"
+            >
+            <figcaption class="lesson-caption">
+                Blank Chord Diagram
+            </figcaption>
+        </figure>
+    
+
+        <p class="body-text">
+          A chord chart is drawn as if you are looking straight at the guitar’s fretboard.
+          The vertical lines represent the strings, and the horizontal lines represent the frets.
+          The string on the left is the thick low E string, and the string on the right is the thin high E string.
+        </p>
+      </section>
+
+      <!-- STRINGS -->
+      <section class="section">
+        <h2 class="section-title">The Strings</h2>
+
+        <!-- IMAGE: Chord chart with strings labeled (E A D G B e) -->
+
+          <img 
+                class="lesson-image"
+                src="./Assets/Images/Chord Chart with strings.png"
+                alt="chord diagram"
+            >
+            <figcaption class="lesson-caption">
+                Chord Chart with Strings Labelled
+            </figcaption>
+
+        <p class="body-text">
+          The six vertical lines in a chord chart represent the six strings of the guitar.
+          From left to right, they are the low E, A, D, G, B, and high E strings.
+          Even though the high E string is also called E, it is thinner and higher in pitch.
+        </p>
+      </section>
+
+      <!-- FRETS -->
+      <section class="section">
+        <h2 class="section-title">The Frets</h2>
+
+        <!-- IMAGE: Chord chart showing fret numbers (1, 2, 3) -->
+           <img 
+                class="lesson-image"
+                src="./Assets/Images/Chord Chart with strings.png"
+                alt="chord diagram"
+            >
+            <figcaption class="lesson-caption">
+                Chord Chart with Frets Labelled
+            </figcaption>
+
+        <p class="body-text">
+          The horizontal lines represent the frets.
+          The top line is usually the nut of the guitar, and the spaces between the lines are the frets.
+          When you place your finger on a fret, press just behind the metal bar, not directly on top of it.
+        </p>
+      </section>
+
+      <!-- FINGER PLACEMENT -->
+      <section class="section">
+        <h2 class="section-title">Finger Placement Dots</h2>
+
+        <!-- IMAGE: Simple chord diagram (A major or C major) -->
+           <img 
+                class="lesson-image"
+                src="./Assets/Images/A Major.jpg"
+                alt="A Major Chord"
+            >
+            <figcaption class="lesson-caption">
+                A Major Chord
+            </figcaption>
+
+        <p class="body-text">
+          The filled-in dots show where to place your fingers.
+          Each dot tells you which string to press and on which fret.
+          If more than one dot appears on the same fret, it means you are pressing multiple strings at once.
+        </p>
+      </section>
+
+      <!-- OPEN & MUTED STRINGS -->
+      <section class="section">
+        <h2 class="section-title">Open and Muted Strings</h2>
+
+        <!-- IMAGE: Chord chart with O (open) and X (muted) symbols -->
+           <img 
+                class="lesson-image"
+                src="./Assets/Images/C Major.jpg"
+                alt="C Major Chord"
+            >
+            <figcaption class="lesson-caption">
+                C Major Chord
+            </figcaption>
+
+        <p class="body-text">
+          Symbols above the chord chart tell you how each string should be played.
+          An “O” means play the string open without pressing it down.
+          An “X” means do not play that string at all.
+        </p>
+      </section>
+
+      <!-- FULL EXAMPLE -->
+      <section class="section">
+        <h2 class="section-title">Reading a Full Chord Chart</h2>
+
+        <!-- IMAGE: Fully labeled chord chart (A major recommended) -->
+          <img 
+                class="lesson-image"
+                src="./Assets/Images/A Major.jpg"
+                alt="A Major Chord"
+            >
+            <figcaption class="lesson-caption">
+                A Major Chord
+            </figcaption>
+
+           
+
+        <p class="body-text">
+          When you put all of these elements together, a chord chart gives you everything you need to know
+          to play a chord: which strings to play, where to place your fingers, and which strings to avoid.
+          With a little practice, reading chord charts becomes second nature.
+        </p>
+      </section>
+
+      <!-- WHAT'S NEXT -->
+      <section class="section">
+        <h2 class="section-title">What’s Next?</h2>
+
+        <p class="body-text">
+          Now that you know how to read chord charts, you’re ready to start learning your first chords.
+          In the next sections, we’ll explore major, minor, and 7th chords and show you how to use them in real music.
+        </p>
+
+        <!-- OPTIONAL: Button linking to Major Chords page -->
+
+         <a href="major.html" class="button button--primary">
+            Next Lesson: Major Chords →
+        </a>
+
+      </section>
+
+    </main>
+
+  </div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your First Guitar Chords</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Google Fonts: Americana / Bluegrass -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <h1 class="page-title">Your First Guitar Chords</h1>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- INTRO SECTION -->
+      <section class="section">
+        <h2 class="section-title">Welcome</h2>
+
+        <p class="body-text">
+          Learning guitar doesn’t have to be confusing—this page is designed to walk you through the essentials step by step.
+          You’ll start by understanding how to read a chord chart, so you know exactly where to place your fingers on the fretboard.
+          From there, we’ll explore the three core chord types every beginner should know: major, minor, and dominant 7th shapes,
+          all in the open position. Once you’re comfortable forming these chords, you’ll learn how to put them into practice by playing a
+          simple 12-bar blues using a basic, easy-to-follow strumming pattern.
+        </p>
+
+        <ol class="lesson-list">
+          <li>Learn to read chord charts</li>
+          <li>Learn Major Chords</li>
+          <li>Learn Minor Chords</li>
+          <li>Learn 7th Chords</li>
+          <li>Learn to play the 12 Bar Blues</li>
+        </ol>
+      </section>
+
+      <!-- LESSON SECTIONS -->
+
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">Read Chord Charts</h3>
+          <img class="lesson-image" src="./Assets/Images/Chord Charts.jpg" alt="Chord Chart">
+          <a class="button button--primary" href="./chordcharts.html">Start Lesson</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">Major Chords</h3>
+          <img class="lesson-image" src="./Assets/Images/A Major.jpg" alt="Major Chord">
+          <a class="button button--primary" href="./major.html">Start Lesson</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">Minor Chords</h3>
+          <img class="lesson-image" src="./Assets/Images/A Minor.jpg" alt="Minor Chord">
+          <a class="button button--primary" href="./minor.html">Start Lesson</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">7th Chords</h3>
+          <img class="lesson-image" src="./Assets/Images/A 7.jpg" alt="7th Chord">
+          <a class="button button--primary" href="./7th.html">Start Lesson</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">12 Bar Blues</h3>
+          <img class="lesson-image" src="./Assets/Images/12 Bar Blues.jpg" alt="12 Bar Blues Chord Chart">
+          <a class="button button--primary" href="./12 Bar Blues.html">Start Lesson</a>
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Major Chords</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <h1 class="page-title">Major Chords</h1>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- INTRO SECTION -->
+      <section class="section">
+        <h2 class="section-title">Introduction</h2>
+        <p class="body-text">
+          Major chords are some of the first shapes beginners learn because they sound bright, happy, and full.
+          A major chord is built from three notes: the root, the major third, and the perfect fifth.
+          On this page, you’ll learn the most common open-position major chords and the notes that make each one up.
+        </p>
+      </section>
+
+      <!-- A MAJOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">A Major</h3>
+
+          <img class="lesson-image" src="./Assets/Images/A Major.jpg" alt="A Major chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> A (root), C♯ (major third), E (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- C MAJOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">C Major</h3>
+
+          <img class="lesson-image" src="./Assets/Images/C Major.jpg" alt="C Major chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> C (root), E (major third), G (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- D MAJOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">D Major</h3>
+
+          <img class="lesson-image" src="./Assets/Images/D Major.jpg" alt="D Major chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> D (root), F♯ (major third), A (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- E MAJOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">E Major</h3>
+
+          <img class="lesson-image" src="./Assets/Images/E Maor.jpg" alt="E Major chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> E (root), G♯ (major third), B (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- F MAJOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">F Major</h3>
+
+          <img class="lesson-image" src="./Assets/Images/F Major.jpg" alt="F Major chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> F (root), A (major third), C (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- G MAJOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">G Major</h3>
+
+          <img class="lesson-image" src="./Assets/Images/G Major.jpg" alt="G Major chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> G (root), B (major third), D (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <a href="minor.html" class="button button--primary">
+        Next Lesson: Minor Chords →
+      </a>
+
+
+
+    </main>
+
+  </div>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minor Chords</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Merriweather:wght@400;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="header">
+      <h1 class="page-title">Minor Chords</h1>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- INTRO SECTION -->
+      <section class="section">
+        <h2 class="section-title">Introduction</h2>
+        <p class="body-text">
+          Minor chords have a darker, more emotional sound compared to major chords.
+          They’re created by changing just one note in a major chord: the major third becomes a minor third.
+          This small change gives minor chords their sad, moody character.
+          In this section, you’ll learn the essential open-position minor chord shapes.
+        </p>
+      </section>
+
+      <!-- A MINOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">A Minor</h3>
+
+          <!-- IMAGE: A Minor chord diagram -->
+          <img class="lesson-image" src="./Assets/Images/A Minor.jpg" alt="A minor guitar chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> A (root), C (minor third), E (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- D MINOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">D Minor</h3>
+
+          <!-- IMAGE: D Minor chord diagram -->
+          <img class="lesson-image" src="./Assets/Images/D Minor.jpg" alt="D minor guitar chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> D (root), F (minor third), A (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <!-- E MINOR -->
+      <section class="section">
+        <div class="card">
+          <h3 class="card-title">E Minor</h3>
+
+          <!-- IMAGE: E Minor chord diagram -->
+          <img class="lesson-image" src="./Assets/Images/E Min.jpg" alt="E minor guitar chord diagram">
+
+          <p class="body-text">
+            <strong>Chord tones:</strong> E (root), G (minor third), B (perfect fifth)
+          </p>
+        </div>
+      </section>
+
+      <a href="7th.html" class="button button--primary">
+         Next Lesson: Dominant 7th Chords →
+      </a>
+
+
+    </main>
+
+  </div>
+
+</body>
+</html>
+
+:root {
+  /* =========================
+     COLOR SYSTEM (role-based)
+     ========================= */
+
+/* Backgrounds */
+  /* Backgrounds */
+  --bg-page: #E6D8B8;
+  --bg-section: #F5F1E6;
+  --bg-section-alt: #DED1AE;
+  --bg-header: #1F3D2B;
+  --bg-accent: #2F6B4F;
+
+  /* Accents */
+  --bg-accent-secondary: #4E6B4C;
+
+  /* Text */
+  --text-primary: #2B2A26;
+  --text-secondary: #5E5A50;
+  --text-inverse: #F5F1E6;
+
+  /* =========================
+     TYPOGRAPHY
+     ========================= */
+
+  --font-heading: 'Special Elite', cursive;
+  --font-body: 'Merriweather', serif;
+  --font-ui: 'Montserrat', sans-serif;
+
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  /* =========================
+     SPACING SCALE
+     ========================= */
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 32px;
+  --space-xl: 64px;
+
+  /* =========================
+     LAYOUT WIDTHS
+     ========================= */
+
+  --max-width-content: 1100px;
+  --max-width-narrow: 720px;
+
+  /* =========================
+     BORDERS & SHAPE
+     ========================= */
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+
+  /* =========================
+     SHADOWS (subtle, rustic)
+     ========================= */
+
+  --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 6px 16px rgba(0, 0, 0, 0.12);
+
+  /* =========================
+     TRANSITIONS
+     ========================= */
+
+  --transition-fast: 0.15s ease-in-out;
+  --transition-normal: 0.3s ease-in-out;
+
+  /* =========================
+     LAYERS (z-index)
+     ========================= */
+
+  --layer-header: 100;
+  --layer-overlay: 200;
+  --layer-modal: 300;
+}
+
+/* =========================
+   BASE ELEMENT STYLES
+   ========================= */
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+/* Headings default */
+h1, h2, h3 {
+  font-family: var(--font-heading);
+  margin-top: 0;
+}
+
+/* =========================
+   PAGE LAYOUT
+   ========================= */
+
+.page {
+  min-height: 100vh;
+}
+
+/* =========================
+   HEADER
+   ========================= */
+
+.header {
+  background-color: var(--bg-header);
+  color: var(--text-inverse);
+  padding: var(--space-xl) var(--space-lg);
+  text-align: center;
+}
+
+.page-title {
+  font-size: 2.8rem;
+  margin-bottom: var(--space-sm);
+}
+
+/* =========================
+   MAIN CONTENT
+   ========================= */
+
+.main {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+  padding: var(--space-lg);
+}
+
+/* =========================
+   SECTIONS
+   ========================= */
+
+.section {
+  background-color: var(--bg-section);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-xl);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.section--alt {
+  background-color: var(--bg-section-alt);
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: var(--space-md);
+}
+
+.body-text {
+  margin-bottom: var(--space-md);
+}
+
+/* =========================
+   LESSON LIST
+   ========================= */
+
+.lesson-list {
+  padding-left: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.lesson-list li {
+  margin-bottom: var(--space-sm);
+}
+
+/* =========================
+   CARDS (LESSON LINKS)
+   ========================= */
+
+   .card {
+  background-color: var(--bg-section);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-lg);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+
+.card-title {
+  font-size: 1.4rem;
+  margin-bottom: var(--space-sm);
+}
+
+/* =========================
+   IMAGES
+   ========================= */
+
+.lesson-image {
+  width: 100%;
+  max-width: 320px;
+  height: 200px;
+
+  object-fit: contain;
+  display: block;
+
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: var(--space-md);
+}
+
+/* =========================
+   BUTTONS & LINKS
+   ========================= */
+
+.button {
+  display: inline-block;
+  font-family: var(--font-ui);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  transition: var(--transition-normal);
+}
+
+.button--primary {
+  background-color: var(--bg-accent);
+  color: var(--text-inverse);
+}
+
+.button--primary:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.footer {
+  text-align: center;
+  padding: var(--space-lg);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* =========================================================
+   LESSON IMAGE SYSTEM
+   --------------------------------------------------------- */
+
+.lesson-figure {
+  margin: var(--space-lg) auto;
+  max-width: 320px;
+  text-align: center; /* centers caption text */
+}
+
+.lesson-image {
+  display: block;              /* removes inline spacing issues */
+  margin-left: auto;           /* centers image horizontally */
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  background-color: var(--bg-section);
+}
+
+
+.lesson-caption {
+  margin-top: var(--space-sm);
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  font-weight: 800;
+  text-align: center
+  ;
+}
